@@ -1,2 +1,2 @@
 # javascript
-js code repo
+java script series (hitesh sir)
